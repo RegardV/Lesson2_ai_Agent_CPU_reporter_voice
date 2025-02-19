@@ -41,7 +41,7 @@ As a Junior DevOps learner, I’ve delivered a functional agent and a robust set
 
 ## Student Reflection (Inkypyrus’s Take)
 
-Hey, it’s Inkypyrus! This project was a wild ride—I turned a basic CPU checker into a cloud-savvy agent, all from a nested Ubuntu VM I built from scratch. Grok’s guidance was clutch, helping me wrestle with virtual envs, Dropbox scopes, and Jupyter quirks. Now, I’ve got a script that plots, speaks, and syncs to my free Dropbox—pretty slick, right? Debugging auth errors and nailing the overwrite mode felt like real DevOps wins. Uploading to GitHub makes me legit—I’m ready for Lesson 4 and beyond, maybe even CrewAI next!
+Hey, it’s Inkypyrus! This project was a wild ride—I turned a basic CPU checker into a cloud-savvy agent, all from a nested Ubuntu VM I built from scratch. virtual envs, Dropbox scopes, and Jupyter quirks. Now, I’ve got a script that plots, speaks, and syncs to my free Dropbox—pretty slick, right? Debugging auth errors and nailing the overwrite mode felt like real DevOps wins. Uploading to GitHub makes me legit—I’m ready for Lesson 4 and beyond, maybe even CrewAI next!
 
 ## What This Means in Practice
 
